@@ -1,0 +1,14 @@
+[
+  {
+    "package": "cricketr",
+    "oncran": true
+  },
+  {
+    "package": "QCSimulator",
+    "oncran": true
+  },
+  {
+    "package": "yorkr",
+    "oncran": true
+  }
+]
