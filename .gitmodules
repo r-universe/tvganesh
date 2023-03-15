@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cricketr"]
-	path = cricketr
-	url = https://github.com/tvganesh/cricketr
-	shallow = true
-	registered = true
 [submodule "QCSimulator"]
 	path = QCSimulator
 	url = https://github.com/tvganesh/qcsimulator
@@ -16,5 +11,10 @@
 [submodule "yorkr"]
 	path = yorkr
 	url = https://github.com/tvganesh/yorkr
+	shallow = true
+	registered = true
+[submodule "cricketr"]
+	path = cricketr
+	url = https://github.com/tvganesh/cricketr
 	shallow = true
 	registered = true
